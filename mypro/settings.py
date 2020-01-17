@@ -25,7 +25,9 @@ SECRET_KEY = '6p%3&30e_w-3t_cdfn1t6)!ir1yd7)3esyf_utp-hk93@&70b1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'raneeep.herokuapp.com'
+]
 
 
 # Application definition
